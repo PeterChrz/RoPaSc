@@ -1,8 +1,7 @@
 =begin
 Ruby Rocks Paper Scissors
-Written By: PMTZ
-Date: 01/14/2017
 :: Basic Ruby based command line game.
+:: First edition, demonstrates basic command line game play.
 =end
 
 
@@ -14,7 +13,6 @@ require "./RPS_VERIFY.rb"
 #Global Variables
 round = 1
 i = 1
-#Make multiple AI?
 opp_name = "Zammy"
 p1_score = 0
 opp_score = 0
