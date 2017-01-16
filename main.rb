@@ -1,7 +1,6 @@
 =begin
 Ruby Rocks Paper Scissors
 :: Basic Ruby based command line game.
-:: First edition, demonstrates basic command line game play.
 =end
 
 
